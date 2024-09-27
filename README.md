@@ -16,7 +16,7 @@ A URL shortening service built with JavaScript and styled using Tailwind CSS. Th
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/Vivek09Chahal/Url-Shortner.git
+    git clone https://github.com/Tanmay1906/Url-Shortner.git
     ```
 2. Navigate to the project directory:
     ```sh
