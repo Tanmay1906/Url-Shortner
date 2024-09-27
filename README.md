@@ -1,5 +1,3 @@
-Here is a README file for your project:
-
 # Url-Shortner
 
 ## Description
