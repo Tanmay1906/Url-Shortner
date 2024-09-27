@@ -1,7 +1,9 @@
+Here is a README file for your project:
+
 # Url-Shortner
 
 ## Description
-A URL shortening service built with JavaScript. This service allows users to shorten long URLs into more manageable links.
+A URL shortening service built with JavaScript and styled using Tailwind CSS. This service allows users to shorten long URLs into more manageable links.
 
 ## Features
 - Shorten long URLs
@@ -10,7 +12,7 @@ A URL shortening service built with JavaScript. This service allows users to sho
 
 ## Technologies Used
 - JavaScript
-- CSS
+- Tailwind CSS
 - HTML
 
 ## Installation
@@ -22,11 +24,17 @@ A URL shortening service built with JavaScript. This service allows users to sho
     ```sh
     cd Url-Shortner
     ```
+3. Install the dependencies:
+    ```sh
+    npm install
+    ```
 
 ## Usage
-1. Open `index.html` in your web browser.
-2. Enter the URL you want to shorten in the input field.
-3. Click the "Shorten" button.
+1. Start the development server:
+    ```sh
+    npm run dev
+    ```
+2. Open your browser and navigate to `http://localhost:3000`.
 
 ## Contributing
 1. Fork the repository.
@@ -46,7 +54,5 @@ A URL shortening service built with JavaScript. This service allows users to sho
 
 ## License
 This project is licensed under the MIT License.
-
----
 
 Feel free to modify the above template to better fit your project's specifics.
